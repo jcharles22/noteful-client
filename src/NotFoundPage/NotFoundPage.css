@@ -1,0 +1,10 @@
+.notFoundPageContainer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.heading {
+    font-weight: bold;
+    font-size: 24px;
+}

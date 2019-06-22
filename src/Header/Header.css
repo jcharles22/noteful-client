@@ -1,0 +1,16 @@
+.header {
+    margin: 0;
+    padding-left: 30%;
+    display: flex;
+    align-items: center;
+    font-size: 45px;
+    min-height: 150px;
+    font-weight: lighter;
+    border-bottom: 1px solid black;
+    text-decoration: none;
+    color: goldenrod;
+}
+
+.header:hover {
+    color: slategray;
+}

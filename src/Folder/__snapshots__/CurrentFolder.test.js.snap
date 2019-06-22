@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CurrentFolder component renders the complete form 1`] = `
+<p
+  className="currentFolder"
+>
+  Current Folder:
+</p>
+`;
+
+exports[`CurrentFolder component renders without crashing 1`] = `
+<p
+  className="currentFolder"
+>
+  Current Folder:
+</p>
+`;

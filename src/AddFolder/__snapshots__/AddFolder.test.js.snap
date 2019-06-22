@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AddFolder component renders the complete form 1`] = `
+<section
+  className="formContainer"
+>
+  <h2>
+    Create a New Folder
+  </h2>
+  <hr />
+  <form
+    className="form"
+    onSubmit={[Function]}
+  >
+    <div
+      className="formInputs"
+    >
+      <label
+        className="label"
+        htmlFor="name"
+      >
+        Folder Name:
+      </label>
+      <input
+        aria-label="Enter folder name"
+        aria-required="true"
+        id="name"
+        name="folder-name"
+        placeholder="New Folder"
+        required={true}
+        type="text"
+      />
+    </div>
+    <div
+      id="formButtons"
+    >
+      <button
+        className="button"
+        onClick={[Function]}
+        type="button"
+      >
+        Cancel
+      </button>
+       
+      <button
+        className="button"
+        type="submit"
+      >
+        Save
+      </button>
+    </div>
+  </form>
+</section>
+`;

@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NotFoundPage component renders without crashing 1`] = `
+<section
+  className="notFoundPageContainer"
+>
+  <h2
+    className="heading"
+  >
+    Page Not Found
+  </h2>
+  <p>
+    This page does not exist, try going back or using the navigation menu
+  </p>
+</section>
+`;

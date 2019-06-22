@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AddFolder component renders the complete form 1`] = `
+<Link
+  className="header"
+  to="/"
+>
+  Noteful
+</Link>
+`;
+
+exports[`Header component renders the complete form 1`] = `
+<Link
+  className="header"
+  to="/"
+>
+  Noteful
+</Link>
+`;
+
+exports[`Header component renders without crashing 1`] = `
+<Link
+  className="header"
+  to="/"
+>
+  Noteful
+</Link>
+`;
